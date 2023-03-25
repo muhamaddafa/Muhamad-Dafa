@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhamad Dafa</h1>
+<h1>Hi 👋, I'm Muhamad Dafa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamaddafa&label=Profile%20views&color=0e75b6&style=flat" alt="muhamaddafa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/temenmundut" target="blank"><img src="https://img.shields.io/twitter/follow/temenmundut?logo=twitter&style=for-the-badge" alt="temenmundut" /></a> </p>
